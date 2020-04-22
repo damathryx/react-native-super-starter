@@ -1,7 +1,7 @@
 ## Project Structure
 
 ```
-Valari Starter Kit
+Super Starter Kit
 ├── android
 ├── assets ---------------------> fonts and other native assets
 ├── ios
