@@ -10,7 +10,7 @@
     "@emotion/styled-base": "^10.0.24",
     "@react-native-community/async-storage": "^1.6.2",
     "emotion-theming": "^10.0.14",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "16.13.1",
     "react-native": "0.63.0-rc.0",
     "react-native-config": "^0.12.0",
